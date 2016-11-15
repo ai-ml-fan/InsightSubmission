@@ -34,6 +34,7 @@ In other words, the src files *do not* look at the argument to determine the nam
 This can be changed very easily if required by modifying variables specifying path and output at the beginning of the source.
 
 NOTE 2. Improvements that should come in the next stage include reading the files into blocks rather than as lines. Also writing the output into memory and writing the memory structure to file. I could not complete these on account of time.
+I will continue to check in modifications to checkfraud3.py so as to improve execution times. Please refer to the latest version of source file. 
 
 
 ########################## END OF MY COMMENTS #######################################
